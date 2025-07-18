@@ -20,7 +20,7 @@
 </table>
 
 ## About This Project:
-![GitHub repo size](https://img.shields.io/github/repo-size/faizanasif728/Forever_Ecommerce)
+![GitHub repo size](https://img.shields.io/github/repo-size/faizanasif728/ecommerce)
 
 ⚛️ Tech Stack: <kbd>[React.js](https://react.dev/learn/installation)</kbd>, <kbd>[Node.js](https://nodejs.org/en/download/package-manager)</kbd>, <kbd>[Express.js](https://expressjs.com)</kbd>, <kbd>[MongoDB](https://www.mongodb.com)</kbd>, <kbd>[Tailwind CSS](https://tailwindcss.com/docs/installation)</kbd>
 
